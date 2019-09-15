@@ -1,0 +1,7 @@
+pip 
+
+pip -- version 						// Version Check
+pip install 						// Pip Installation
+python -m pip install --upgrade pip // pip Upgrade
+--user								// User Permission
+pip install numpy 					//numoy install
